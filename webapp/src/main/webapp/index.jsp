@@ -13,6 +13,9 @@
     <label for="dob"><b>DOB</b></label>
     <input type="DOB" placeholder="Enter Dob" name="dob" required>
 
+    <label for="SSN"><b>SSN</b></label>
+    <input type="ssn" placeholder="Enter ssn" name="ssn" required>
+
     <button type="submit">Login</button>
     <label>
       <input type="checkbox" checked="checked" name="remember"> Remember me
